@@ -18,3 +18,5 @@ Todos os itens são obrigatórios para a execução do script.<br/><br/>
     <li><strong>tweet-collector (script)</strong></li>
     É o script propriamente dito, que contém toda a lógica de coleta e armazenamento dos Tweets. Após todas as configurações necessárias serem realizadas, é esse o arquivo que deve ser executado.
 </ul>
+
+<h2>LEIA-ME para mais informações</h2>
