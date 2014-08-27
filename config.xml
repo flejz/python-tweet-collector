@@ -1,23 +1,9 @@
 <tracks>
   <track 
-    value="iphone"
-    api-key="VUAt8dyEZ8dKUOoy85IjbqlQa" 
-    api-secret="merdFQkxfL0NKYvx2MGcHM7r2TxyrqTPMpl0oddMP8ZAgBSxhw"
-    access-key="551111126-tGySoB3YnWd4agjRvlrrEp7FnW7GjPOQYDOmKWcF" 
-    access-secret="GZfZqBLIj8GSen8eUGre8dvC2N9BAJL5F96wttSYEJCwI"  />
-    
-  <track 
-    value="google"
-    api-key="iAT2WwRUcIJfpFoYbECNYTNTl" 
-    api-secret="khynvcBRL0ehrTqQDmNicAJ4skFvoyXfgjxA6wXNHgGFSuF5Sl"
-    access-key="551111126-l7zaNXv5YU1hMadIyvVflfzBiruCxrKdMJiPmr0I" 
-    access-secret="1WEs3Tm3Yo2GtQtDclq1d8ET4LJOYH4hwp2NVEos3Mn4m"  />
-  
-  <track 
-    value="dilma"
-    api-key="W2J8MiN5yNfUgbZV8Zne4PvIa" 
-    api-secret="9p7j5LmeptMus5Yekuo8N2ZlRbjEnP5mhZapDpoQLHz53V3CBY"
-    access-key="551111126-x8tOKiqnt0sAS1Bhi2GrO8DH1j3IkRDT3YLsyjxc" 
-    access-secret="KYEe9lLeiBRdCo9F1LZdf4z8EdfJ97q3x3MXITVrCer3W"  />
+    value="<track value>"
+    api-key="<api key>" 
+    api-secret="<api secret>"
+    access-key="<access key>" 
+    access-secret="<access secret>"  />
     
 </tracks>
